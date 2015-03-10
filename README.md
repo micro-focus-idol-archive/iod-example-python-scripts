@@ -7,7 +7,7 @@ In particular these demonstrate the creation, admin, query and deletion of a sta
 ## Usage
 
 Create an IOD unstructured index and a web connector
-> ./create-iod-web-index.py --name &lt;indexname&gt; --url <enter URL here>
+> ./create-iod-web-index.py --name &lt;indexname&gt; --url &lt;enter URL here&gt;
 
 Check the status of the connector and unstructued index
 > ./check-iod-web-index.py --name &lt;indexname&gt;
