@@ -1,6 +1,6 @@
 # iod-example-python-scripts
 
-A set of sample Python Scripts for using various [IDOL OnDemand](http://www.idolondemand.com) APIs.  
+A set of sample Python Scripts for using various [IDOL OnDemand](http://www.idolondemand.com) [APIs](https://www.idolondemand.com/developer/apis).  
 
 In particular these demonstrate the creation, administration, querying and deletion of a standard flavor unstructured text index populated with a connector that indexes content from a website.
 
