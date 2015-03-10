@@ -6,6 +6,12 @@ In particular these demonstrate the creation, administration, querying and delet
 
 See [connector documentation](https://www.idolondemand.com/developer/apis/createconnector#overview) and [unstructured index documentation](https://www.idolondemand.com/developer/apis/createtextindex#overview)
 
+## Dependencies
+
+You will need to install the unirest python module
+
+> sudo pip install unirest
+
 ## Usage
 
 You will need to signup for an account and obtain your IOD API key.  The scripts below can either read the IOD API Key from the IODAPIKEY environment variable or you can supply it on the command line using the --apikey option.
