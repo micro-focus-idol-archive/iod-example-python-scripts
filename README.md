@@ -10,16 +10,16 @@ Create an IOD unstructured index and a web connector
 > ./create-iod-web-index.py --name &lt;indexname&gt; --url <enter URL here>
 
 Check the status of the connector and unstructued index
-> ./check-iod-web-index.py --name <indexname>
+> ./check-iod-web-index.py --name &lt;indexname&gt;
 
 List connectors created on this account
 > ./list-iod-connectors.py 
 
 Search an unstructured index
-> ./search-iod-web-index.py --name <indexname> <search text>
+> ./search-iod-web-index.py --name &lt;indexname&gt; &lt;search text&gt;
 
 Search an unstructured index and the connector we used to populate it
-> ./delete-iod-web-index.py --name <indexname>
+> ./delete-iod-web-index.py --name &lt;indexname&gt;
 
 IODAPIKEY can either be set as an environment variable or supplied using the --apikey option.
 
