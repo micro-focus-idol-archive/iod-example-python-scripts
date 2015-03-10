@@ -8,6 +8,10 @@ See [connector documentation](https://www.idolondemand.com/developer/apis/create
 
 ## Usage
 
+You will need to signup for an account and obtain your IOD API key.  The scripts below can either read the IOD API Key from the IODAPIKEY environment variable or you can supply it on the command line using the --apikey option.
+
+> export IODAPIKEY=&lt;YOUR-IOD-API-KEY-HERE&gt;
+
 Create an IOD unstructured index and a web connector
 > ./create-iod-web-index.py --name &lt;indexname&gt; --url &lt;enter URL here&gt;
 
