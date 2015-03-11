@@ -14,7 +14,7 @@ You will need to install the unirest python module
 
 ## Usage
 
-You will need to signup for an account and obtain your IOD API key.  The scripts below can either read the IOD API Key from the IODAPIKEY environment variable or you can supply it on the command line using the --apikey option.
+You will need to signup for an account and obtain your [IDOL OnDemand](http://www.idolondemand.com) API key.  The scripts below can either read the [IDOL OnDemand](http://www.idolondemand.com) API Key from the IODAPIKEY environment variable or you can supply it on the command line using the --apikey option.
 
 > export IODAPIKEY=&lt;YOUR-IOD-API-KEY-HERE&gt;
 
