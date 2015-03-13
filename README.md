@@ -12,6 +12,16 @@ You will need to install the unirest python module
 
 > sudo pip install unirest
 
+If you don't have pip then it's simple to install:
+
+Ubuntu / Debian based systems:
+
+> sudo apt-get install python-pip
+
+Read Hat / CentOS based systems:
+
+> sudo yum install python-pip
+
 ## Usage
 
 You will need to signup for an account and obtain your [IDOL OnDemand](http://www.idolondemand.com) API key.  The scripts below can either read the [IDOL OnDemand](http://www.idolondemand.com) API Key from the IODAPIKEY environment variable or you can supply it on the command line using the --apikey option.
