@@ -8,7 +8,7 @@ See [connector documentation](https://www.idolondemand.com/developer/apis/create
 
 ## Dependencies
 
-You will need to install the unirest python module
+You will need to install the [unirest](http://unirest.io/) [python module](http://unirest.io/python.html)
 
 > sudo pip install unirest
 
